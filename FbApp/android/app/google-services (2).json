@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056077727884",
+    "project_id": "fbrnapp-51a6a",
+    "storage_bucket": "fbrnapp-51a6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056077727884:android:d79c54c62c17394aff53a9",
+        "android_client_info": {
+          "package_name": "com.Fbapp.FB"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvqEgG53KB1d_KCbW8EPsutEiU2Xl6q6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
