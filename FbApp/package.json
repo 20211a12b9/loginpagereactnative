@@ -7,6 +7,12 @@
     "ios": "expo run:ios",
     "web": "expo start --web"
   },
+  {
+  "scripts": {
+    "start": "webpack serve --config webpack.config.js",
+    "build": "webpack --config webpack.config.js"
+  }
+},
   "dependencies": {
     "@expo/metro-runtime": "~3.2.1",
     "@react-native-firebase/app": "^20.1.0",
